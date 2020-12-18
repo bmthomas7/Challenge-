@@ -1,0 +1,2 @@
+C:\Users\Ben\source\repos\Week_one_challenge\Week_one_challenge\obj\Debug\Week_one_challenge.csprojAssemblyReference.cache
+C:\Users\Ben\source\repos\Week_one_challenge\Week_one_challenge\obj\Debug\Week_one_challenge.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+C:\Users\Ben\source\repos\Week_Two_Projects\Week_Two_Projects\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Ben\source\repos\Week_Two_Projects\Week_Two_Projects\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Ben\source\repos\Week_Two_Projects\Week_Two_Projects\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Ben\source\repos\Week_Two_Projects\Week_Two_Projects\bin\Debug\Week_Two_Projects.dll
+C:\Users\Ben\source\repos\Week_Two_Projects\Week_Two_Projects\bin\Debug\Week_Two_Projects.pdb
+C:\Users\Ben\source\repos\Week_Two_Projects\Week_Two_Projects\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Ben\source\repos\Week_Two_Projects\Week_Two_Projects\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Ben\source\repos\Week_Two_Projects\Week_Two_Projects\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Ben\source\repos\Week_Two_Projects\Week_Two_Projects\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Ben\source\repos\Week_Two_Projects\Week_Two_Projects\obj\Debug\Week_Two_Projects.csprojAssemblyReference.cache
+C:\Users\Ben\source\repos\Week_Two_Projects\Week_Two_Projects\obj\Debug\Week_Two_Projects.csproj.CoreCompileInputs.cache
+C:\Users\Ben\source\repos\Week_Two_Projects\Week_Two_Projects\obj\Debug\Week_Two_Projects.csproj.CopyComplete
+C:\Users\Ben\source\repos\Week_Two_Projects\Week_Two_Projects\obj\Debug\Week_Two_Projects.dll
+C:\Users\Ben\source\repos\Week_Two_Projects\Week_Two_Projects\obj\Debug\Week_Two_Projects.pdb
